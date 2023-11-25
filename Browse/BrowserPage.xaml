@@ -43,7 +43,7 @@
                             </MenuFlyoutItem.KeyboardAccelerators>
                         </MenuFlyoutItem>
                         <MenuFlyoutSubItem x:Name="advancedMenuFlyoutItem" Text="Advanced">
-                            <MenuFlyoutItem x:Name="devToolsMenuFlyoutItem" Text="DevTools" Click="devToolsMenuFlyoutItem_Click">
+                            <MenuFlyoutItem x:Name="devToolsMenuFlyoutItem" Text="Developer Tools" Click="devToolsMenuFlyoutItem_Click">
                                 <MenuFlyoutItem.Icon>
                                     <FontIcon Glyph="&#xE943;"/>
                                 </MenuFlyoutItem.Icon>
